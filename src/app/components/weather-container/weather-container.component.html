@@ -1,0 +1,4 @@
+<div class="info-stack" *ngFor="let weatherItem of weather">
+    <p>{{ convertDateToFormat(weatherItem.date) }}</p>
+    <p>{{ weatherItem.weather }}</p>
+</div>

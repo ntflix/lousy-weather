@@ -1,0 +1,80 @@
+{
+    "locations": [
+        "Lancaster",
+        "Manchester"
+    ],
+    "Manchester": [
+        {
+            "date": "20210917T000000+0100",
+            "temperature": 18,
+            "weather": "Partly Cloudy",
+            "humidity": 70,
+            "uvIndex": 4
+        },
+        {
+            "date": "20210918T000000+0100",
+            "temperature": 15,
+            "weather": "Rain",
+            "humidity": 90,
+            "uvIndex": 2
+        },
+        {
+            "date": "20210919T000000+0100",
+            "temperature": 21,
+            "weather": "Sunny",
+            "humidity": 40,
+            "uvIndex": 6
+        }
+    ],
+    "Lancaster": [
+        {
+            "date": "20210917T000000+0100",
+            "temperature": 16,
+            "weather": "Cloudy",
+            "humidity": 80,
+            "uvIndex": 2
+        },
+        {
+            "date": "20210918T000000+0100",
+            "temperature": 14,
+            "weather": "Heavy Rain",
+            "humidity": 100,
+            "uvIndex": 1
+        },
+        {
+            "date": "20210919T000000+0100",
+            "temperature": 22,
+            "weather": "Sunny",
+            "humidity": 20,
+            "uvIndex": 7
+        },
+        {
+            "date": "20210920T000000+0100",
+            "temperature": 22,
+            "weather": "Sunny",
+            "humidity": 20,
+            "uvIndex": 7
+        },
+        {
+            "date": "20210921T000000+0100",
+            "temperature": 16,
+            "weather": "Cloudy",
+            "humidity": 80,
+            "uvIndex": 2
+        },
+        {
+            "date": "20210922T000000+0100",
+            "temperature": 14,
+            "weather": "Heavy Rain",
+            "humidity": 100,
+            "uvIndex": 1
+        },
+        {
+            "date": "20210923T000000+0100",
+            "temperature": 22,
+            "weather": "Sunny",
+            "humidity": 20,
+            "uvIndex": 7
+        }
+    ]
+}

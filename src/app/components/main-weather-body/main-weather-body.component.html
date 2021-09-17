@@ -1,0 +1,6 @@
+<div class="container">
+    <app-header title="{{ title }}"></app-header>
+    <app-location-chooser [locations]="locations" (locationChosen)="locationChosen($event)"></app-location-chooser>
+    <app-weather-container *ngIf="weather && chosenLocation" [weather]="weather" [location]="chosenLocation">
+    </app-weather-container>
+</div>
